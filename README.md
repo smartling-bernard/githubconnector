@@ -1,1 +1,1 @@
-# githubconnector
+# s3-olympics
